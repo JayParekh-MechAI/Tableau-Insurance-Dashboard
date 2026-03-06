@@ -16,7 +16,7 @@ Utilizing a multi-layered bar chart, I compared regional average charges against
 * **Primary Finding:** Lifestyle choice (smoking) is a significantly higher cost-driver than geography.
 * **Regional Variance:** The **Southeast** region was identified as having the highest average costs for smokers (**$33,949**), while the **Southwest** had the lowest average for non-smokers (**$7,213**).
 
-![Regional Cost Analysis](average-charge-bar-chart.jpg)
+![Regional Cost Analysis](average-charge-bar-chart.png)
 
 ### 2. The Impact of Dependents on Healthcare Spend
 A dual-axis line chart was implemented to track how the number of children affects total charges, segmented by smoker status.
@@ -24,7 +24,7 @@ A dual-axis line chart was implemented to track how the number of children affec
 * **Trend Analysis:** For smokers, costs peaked at **2 children ($33,783)** before showing a significant reduction as the number of children increased to 5.
 * **Comparative Baseline:** Non-smokers maintained a relatively stable cost profile regardless of the number of dependents.
 
-![Dependents vs Charges Trend](average-charge-line-chart.jpg)
+![Dependents vs Charges Trend](average-charge-line-chart.png)
 
 ### 3. Multivariate Risk Assessment
 The final dashboard segment utilizes an area chart and scatter plot to visualize the complex relationship between Age, BMI, and Charges.
@@ -32,7 +32,7 @@ The final dashboard segment utilizes an area chart and scatter plot to visualize
 * **Significant Trend:** A scatter plot with an integrated trend line confirms that as age increases, charges rise significantly (**P-value < 0.05**).
 * **Risk Clusters:** The analysis identifies a "High Risk" group: smokers with excessive BMI, who pay an average of **$12,000 more** than lower-BMI smoking counterparts.
 
-![Insurance Risk Dashboard](area-chart-scatter-plot.jpg)
+![Insurance Risk Dashboard](area-chart-scatter-plot.png)
 
 ---
 

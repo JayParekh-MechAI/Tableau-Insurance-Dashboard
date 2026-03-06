@@ -17,7 +17,7 @@ Primary Finding: Lifestyle choice (smoking) is a higher cost-driver than geograp
 
 Regional Variance: The Southeast region was identified as having the highest average costs for smokers ($33,949), while the Southwest had the lowest average for non-smokers ($7,213).
 
-![Regional Cost Analysis](average-charge-bar-chart.jpg)
+![Regional Cost Analysis](average-charge-bar-chart.png)
 
 The Impact of Dependents on Healthcare Spend
 
@@ -27,7 +27,7 @@ Trend Analysis: For smokers, costs peaked at 2 children ($33,783) before showing
 
 Comparative Baseline: Non-smokers maintained a relatively stable cost profile regardless of the number of dependents.
 
-![Dependents vs Charges Trend](average-charge-line-chart.jpg)
+![Dependents vs Charges Trend](average-charge-line-chart.png)
 
 3. Multivariate Risk Assessment
 The final dashboard segment utilizes an area chart and scatter plot to visualize the complex relationship between Age, BMI, and Charges.
@@ -36,7 +36,7 @@ Significant Trend: A scatter plot with an integrated trend line confirms that as
 
 Risk Clusters: The analysis identifies a "High Risk" group: smokers with excessive BMI, who pay an average of $12,000 more than lower-BMI smoking counterparts.
 
-![Insurance Risk Dashboard](area-chart-scatter-plot.jpg)
+![Insurance Risk Dashboard](area-chart-scatter-plot.png)
 
 Dashboard Features
 
